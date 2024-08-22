@@ -1,2 +1,4 @@
 # .github
-A project to store our README. We can also use this for overall organization management probably
+Our organization README is in `/profile/README.md` (it's a special GitHub path).
+
+We can also use this repo for organizing our general thought process.
